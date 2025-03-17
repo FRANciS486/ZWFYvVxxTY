@@ -6,7 +6,6 @@ exclude_patterns:
   - CHANGELOG.mdx
   - CODEOWNERS
   - Dockerfile
-  - LICENSE.txt
   - Makefile
   - NOTICE
   - PRONCIPLES.md

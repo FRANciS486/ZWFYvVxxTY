@@ -24,7 +24,6 @@ imageSets   = {'CBSD68','Kodak24','McMaster'}; % testing datasets % see https://
 setTestCur  = imageSets{1};      % current testing dataset
 
 
-showResult  = 1;
 useGPU      = 1;
 pauseTime   = 0;
 

@@ -1,7 +1,6 @@
   range: "40...95"
   status:
     project:
-      default:
     patch:
       default:
         target: 20%

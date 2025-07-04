@@ -31,7 +31,6 @@ jobs:
   copy-sections:
     runs-on: ubuntu-latest
 
-    steps:
       - uses: actions/checkout@v2
 
       - name: Copy Markdowns

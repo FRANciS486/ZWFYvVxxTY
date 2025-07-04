@@ -2,7 +2,6 @@ docs/
 contrib/
 .bin/
 .github/
-*.yaml
 *.yml
 *.json
 *.md

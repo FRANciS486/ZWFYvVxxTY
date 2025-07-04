@@ -2,7 +2,6 @@ docs/
 contrib/
 .bin/
 .github/
-*.yml
 *.json
 *.md
 *ignore

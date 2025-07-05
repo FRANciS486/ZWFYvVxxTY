@@ -1,7 +1,6 @@
 docs/
 contrib/
 .github/
-*.json
 *.md
 *ignore
 Makefile

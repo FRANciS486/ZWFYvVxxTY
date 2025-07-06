@@ -9,7 +9,6 @@ dependencies:
   - matplotlib
   - scikit-learn
   - seaborn
-  - gensim
   - nltk
   - jupyter
   - pip:

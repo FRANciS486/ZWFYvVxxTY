@@ -33,7 +33,6 @@ pipeline {
 					sh './create_stack.sh cni'
 					sh 'kubectl rollout status deployment/coredns -n kube-system --timeout=5m'
 				}
-			}
 		}
 		stage('Reset Stack') {
 			steps {

@@ -49,7 +49,6 @@ jobs:
   #   runs-on: ubuntu-latest
 
   #   steps:
-  #     - uses: actions/checkout@v2
   #     - name: Copy Markdowns
   #       uses: andstor/copycat-action@v3
   #       with:

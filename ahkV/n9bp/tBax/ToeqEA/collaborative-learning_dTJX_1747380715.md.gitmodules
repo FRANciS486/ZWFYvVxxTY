@@ -1,3 +1,2 @@
 	path = mods/manage_multi
-[submodule "google_app"]
 	url = https://github.com/ankitbhatnagar2012/google_app.git

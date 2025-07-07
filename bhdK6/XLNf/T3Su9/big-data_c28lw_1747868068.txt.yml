@@ -43,7 +43,6 @@ jobs:
           clean: true
           commit_message: "Sections copied from master to documentation branch!"
     
-  # copy-readme:
   #   runs-on: ubuntu-latest
 
   #   steps:

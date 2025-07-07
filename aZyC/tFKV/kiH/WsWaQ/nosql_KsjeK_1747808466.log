@@ -6,7 +6,6 @@ a new stable release.
 Usually "unstable" is stable enough for you to use it in development environments
 however you should never use it in production environments. It is possible
 
-    https://download.redis.io/redis-stable.tar.gz
 
 More information is available at https://redis.io
 

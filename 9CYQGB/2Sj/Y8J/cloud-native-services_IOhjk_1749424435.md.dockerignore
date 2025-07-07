@@ -1,6 +1,5 @@
 docs/
 contrib/
-.github/
 *.md
 *ignore
 Makefile

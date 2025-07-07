@@ -11,4 +11,3 @@ dependencies:
   - seaborn
   - nltk
   - jupyter
-  - pip:

@@ -6,7 +6,6 @@
 *.vbproj merge=union
 *.dbproj merge=union
 
-# Standard to msysgit
 *.doc	 diff=astextplain
 *.dot  diff=astextplain
 *.DOT  diff=astextplain

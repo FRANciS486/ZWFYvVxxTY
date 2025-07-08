@@ -4,7 +4,6 @@
 *.cs     diff=csharp
 *.sln    merge=union
 *.vbproj merge=union
-*.dbproj merge=union
 
 *.doc	 diff=astextplain
 *.dot  diff=astextplain

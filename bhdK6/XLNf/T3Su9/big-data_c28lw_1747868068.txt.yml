@@ -25,7 +25,6 @@ jobs:
           clean: true
           commit_message: "Images copied from master to documentation branch!"
 
-  copy-sections:
     runs-on: ubuntu-latest
 
       - uses: actions/checkout@v2

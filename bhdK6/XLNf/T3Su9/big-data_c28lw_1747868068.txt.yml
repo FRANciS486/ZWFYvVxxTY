@@ -20,7 +20,6 @@ jobs:
           src_branch: master
           src_path: /images/.
           dst_owner: andkret
-          dst_path: /static/images/
           dst_branch: documentation
           clean: true
           commit_message: "Images copied from master to documentation branch!"

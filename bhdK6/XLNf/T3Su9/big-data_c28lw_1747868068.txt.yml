@@ -55,7 +55,6 @@ jobs:
   #         commit_message: "Readme copied from master to documentation branch!"
 # copy-readme:
 #   runs-on: ubuntu-latest
-#     - uses: actions/checkout@v2
 #     - name: Copy Markdowns
 #       uses: andstor/copycat-action@v3
 #       with:

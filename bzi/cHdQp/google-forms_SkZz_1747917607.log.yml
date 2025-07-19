@@ -1,6 +1,5 @@
 image: alpine:latest
   stage: deploy
-  script:
   artifacts:
     paths:
     expire_in: 1 day

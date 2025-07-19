@@ -1,5 +1,4 @@
 docs/
 contrib/
-*.md
 *ignore
 Makefile

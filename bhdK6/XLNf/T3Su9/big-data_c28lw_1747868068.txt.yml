@@ -30,7 +30,6 @@ jobs:
 
         uses: andstor/copycat-action@v3
           personal_token: ${{ secrets.ACTION_TOKEN  }}
-          src_branch: master
           src_path: /sections/.
           dst_owner: andkret
           dst_repo_name: Cookbook

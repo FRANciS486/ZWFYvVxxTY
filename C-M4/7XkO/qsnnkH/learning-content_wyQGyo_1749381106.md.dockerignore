@@ -33,7 +33,6 @@ next-env.d.ts
 
 # Sentry
 # Sentry
-next.config.original.js
 
 # lockfile
 pnpm-lock.yaml

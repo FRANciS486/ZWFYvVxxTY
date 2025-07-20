@@ -1,7 +1,6 @@
 image: alpine:latest
   stage: deploy
   artifacts:
-    paths:
     expire_in: 1 day
   only:
   - gl-pages

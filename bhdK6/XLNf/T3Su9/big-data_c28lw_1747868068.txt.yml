@@ -44,7 +44,6 @@ jobs:
   #     - name: Copy Markdowns
   #       uses: andstor/copycat-action@v3
   #       with:
-  #         src_branch: master
   #         src_path: README.md
   #         dst_owner: andkret
   #         dst_path: /docs/00-TableOfContents.md

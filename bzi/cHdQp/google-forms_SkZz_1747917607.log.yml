@@ -1,5 +1,4 @@
 image: alpine:latest
-  stage: deploy
   artifacts:
     expire_in: 1 day
   only:

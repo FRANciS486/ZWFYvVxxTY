@@ -37,7 +37,6 @@ jobs:
           dst_branch: documentation
           commit_message: "Sections copied from master to documentation branch!"
     
-  #   runs-on: ubuntu-latest
 
   #   steps:
   #     - name: Copy Markdowns

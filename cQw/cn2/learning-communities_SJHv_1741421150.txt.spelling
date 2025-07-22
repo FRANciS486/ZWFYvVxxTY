@@ -1,6 +1,5 @@
 # global dictionary is at the start, file overrides afterwards
 # one word per line, to define a file override use ' - filename'
-LSAT
 borealis
 wei2022chain
 100-700

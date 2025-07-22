@@ -6,7 +6,6 @@ pipeline {
 		cron('H */12 * * *')
 		CLR_K8S_PATH="${env.WORKSPACE}/clr-k8s-examples"
 	stages {
-		stage('Setup system') {
 			steps {
 				dir(path: "$CLR_K8S_PATH") {
 					sh './setup_system.sh'

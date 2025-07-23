@@ -1,5 +1,4 @@
 # Custom for Visual Studio
 *.cs     diff=csharp
-*.dot  diff=astextplain
 *.pdf  diff=astextplain
 *.PDF	 diff=astextplain

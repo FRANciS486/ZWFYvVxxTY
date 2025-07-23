@@ -2,6 +2,5 @@ name: mlg_summer_school_day1
   - defaults
 dependencies:
   - pip
-  - numpy>=1.15.0
   - matplotlib
   - nltk

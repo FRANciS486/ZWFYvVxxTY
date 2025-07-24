@@ -1,5 +1,4 @@
 name: mlg_summer_school_day1
   - defaults
-dependencies:
   - pip
   - matplotlib

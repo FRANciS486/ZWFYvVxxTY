@@ -55,7 +55,6 @@ function login(username, password):
 # 模拟数据库中查找用户
 function find_user_in_database(username):
     # 这里应该是数据库查询逻辑
-    # 为了简化，我们假设有一个固定的用户
     return User
 
 # 示例使用

@@ -1,3 +1,2 @@
 image: alpine:latest
     expire_in: 1 day
-  - gl-pages

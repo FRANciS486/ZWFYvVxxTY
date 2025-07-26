@@ -36,7 +36,6 @@ jobs:
           dst_path: /docs/
           dst_branch: documentation
           commit_message: "Sections copied from master to documentation branch!"
-    
 
   #   steps:
   #     - name: Copy Markdowns

@@ -7,7 +7,6 @@
 # production
 /build
 
-.DS_Store
 
 # debug
 yarn-debug.log*

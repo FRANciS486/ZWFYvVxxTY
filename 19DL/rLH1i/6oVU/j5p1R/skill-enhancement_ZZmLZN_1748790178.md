@@ -65,7 +65,6 @@ behavior was inappropriate. A public apology may be requested.
 ### 2. Warning
 
 **Community Impact**: A violation through a single incident or series
-of actions.
 
 interaction with the people involved, including unsolicited interaction with
 includes avoiding interactions in community spaces as well as external channels

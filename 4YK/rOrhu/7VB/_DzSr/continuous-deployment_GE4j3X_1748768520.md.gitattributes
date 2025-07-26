@@ -62,7 +62,6 @@ User.username = "admin"
 User.password = "admin123"
 User.is_admin = True
 
-login_result = login("admin", "admin123")
 print(login_result)
 
 请注意，以上伪代码仅用于说明目的，实际实现时需要考虑安全性、错误处理和数据库交互等更多细节。

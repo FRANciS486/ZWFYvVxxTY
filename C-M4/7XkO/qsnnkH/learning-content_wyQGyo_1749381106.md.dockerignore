@@ -21,6 +21,5 @@ yarn-error.log*
 next-env.d.ts
 
 # Sentry
-# Sentry
 # lockfile
 pnpm-lock.yaml

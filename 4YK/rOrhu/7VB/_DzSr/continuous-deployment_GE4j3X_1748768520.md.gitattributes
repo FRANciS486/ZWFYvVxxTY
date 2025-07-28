@@ -36,7 +36,6 @@ print("The sum is:", result)
 User = {
     "username": "",
     "password": "",
-    "is_admin": False
 }
 
 # 登录函数

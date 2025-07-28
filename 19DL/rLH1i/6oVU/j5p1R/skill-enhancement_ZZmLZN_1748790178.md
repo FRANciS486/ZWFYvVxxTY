@@ -45,7 +45,6 @@ All complaints will be reviewed and investigated promptly and fairly.
 
 ## Enforcement Guidelines
 
-the consequences for any action they deem in violation of this Code of Conduct:
 
 ### 1. Correction
 

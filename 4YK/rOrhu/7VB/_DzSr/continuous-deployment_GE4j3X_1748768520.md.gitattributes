@@ -46,7 +46,6 @@ function login(username, password):
             return "Welcome, admin!"
         else:
             return "Welcome, user!"
-    else:
         return "Invalid credentials"
 
 # 模拟数据库中查找用户

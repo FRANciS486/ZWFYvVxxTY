@@ -1,7 +1,6 @@
 由于您没有提供具体的代码片段，我将无法提供针对特定代码的优化建议。不过，我可以提供一个简单的Python代码示例，并提供一些优化建议。以下是一段简单的Python代码，用于计算一个列表中所有数字的总和：
 ```python
 def sum_of_numbers(numbers):
-    total = 0
     for number in numbers:
         total += number
     return total

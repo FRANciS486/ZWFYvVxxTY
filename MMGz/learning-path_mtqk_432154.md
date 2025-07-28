@@ -1,5 +1,4 @@
 This is free and unencumbered software released into the public domain.
-distribute this software, either in source code form or as a compiled
 binary, for any purpose, commercial or non-commercial, and by any
 means.
 

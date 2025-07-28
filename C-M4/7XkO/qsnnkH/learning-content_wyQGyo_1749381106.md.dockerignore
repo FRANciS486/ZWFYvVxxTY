@@ -20,4 +20,3 @@ next-env.d.ts
 
 # Sentry
 # lockfile
-pnpm-lock.yaml

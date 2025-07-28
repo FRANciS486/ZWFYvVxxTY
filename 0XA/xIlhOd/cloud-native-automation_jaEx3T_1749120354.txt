@@ -18,7 +18,6 @@ pipeline {
 				dir(path: "$CLR_K8S_PATH") {
 					sh './create_stack.sh cni'
 		stage('Reset Stack') {
-			steps {
 			}
 		}
 	}

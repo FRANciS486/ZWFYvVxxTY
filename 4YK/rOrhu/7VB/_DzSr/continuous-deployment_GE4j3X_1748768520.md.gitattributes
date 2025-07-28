@@ -32,7 +32,6 @@ print("The sum is:", result)
 # 用户登录流程伪代码
 # 定义用户数据结构
 User = {
-    "username": "",
     "password": "",
 }
 

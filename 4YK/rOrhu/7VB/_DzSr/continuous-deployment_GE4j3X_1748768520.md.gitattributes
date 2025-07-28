@@ -54,7 +54,6 @@ function find_user_in_database(username):
 
 # 示例使用
 User.username = "admin"
-User.password = "admin123"
 User.is_admin = True
 
 print(login_result)

@@ -7,7 +7,6 @@ def sum_of_numbers(numbers):
 
 # 示例使用
 numbers_list = [1, 2, 3, 4, 5]
-result = sum_of_numbers(numbers_list)
 print("The sum is:", result)
 ```
 

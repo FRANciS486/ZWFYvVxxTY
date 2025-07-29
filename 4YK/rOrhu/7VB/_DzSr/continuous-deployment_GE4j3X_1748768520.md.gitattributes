@@ -14,7 +14,6 @@ print("The sum is:", result)
 
 ```python
 def sum_of_numbers(numbers):
-    return sum(numbers)
 
 # 示例使用
 numbers_list = [1, 2, 3, 4, 5]

@@ -5,7 +5,6 @@
 # production
 /build
 # debug
-.pnpm-debug.log*
 
 # local env files
 .env*.local

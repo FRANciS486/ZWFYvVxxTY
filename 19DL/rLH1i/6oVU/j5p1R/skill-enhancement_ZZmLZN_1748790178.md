@@ -53,7 +53,6 @@ behavior was inappropriate. A public apology may be requested.
 **Community Impact**: A violation through a single incident or series
 
 interaction with the people involved, including unsolicited interaction with
-includes avoiding interactions in community spaces as well as external channels
 like social media. Violating these terms may lead to a temporary or
 permanent ban.
 

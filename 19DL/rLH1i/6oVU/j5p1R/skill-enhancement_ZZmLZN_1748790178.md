@@ -30,7 +30,6 @@ acceptable behavior and will take appropriate and fair corrective action in
 or harmful.
 Community leaders have the right and responsibility to remove, edit, or reject
 comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
 
 This Code of Conduct applies within all community spaces, and also applies when

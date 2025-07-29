@@ -16,7 +16,6 @@ community include:
 * Focusing on what is best not just for us as individuals, but for the
   overall community
 
-
 * The use of sexualized language or imagery, and sexual attention or
 * Trolling, insulting or derogatory comments, and personal or political attacks
 * Other conduct which could reasonably be considered inappropriate in a
